@@ -21,12 +21,6 @@ Here are some of the exciting projects I’ve worked on:
 - **[PixelEditor](https://github.com/UofU-CS3505/cs3505-assignment8-KingsleyCRS)**: A sprite editor application that allows users to design and edit pixel-based artwork. Built using C++ and Qt, this tool supports custom sprite creation, saving in a unique `.ssp` format, and adheres to a defined coding style guide. This project emphasizes collaborative software development, code quality, and effective team-based workflows.
 - **[Chinese-Educational-App](https://github.com/UofU-CS3505/cs3505-assignment9-KingsleyCRS)**: An interactive educational app to help users learn Chinese characters and pronunciation. This application includes engaging activities and a user-friendly interface, built with C++ and Qt, to enhance the language-learning experience. The project emphasizes modular design and clean coding practices.
 
-
----
-
-### 📊 GitHub Stats:
-![Kai-Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kai001020&show_icons=true&theme=radical)
-
 ---
 
 ### ✨ Fun Facts:
